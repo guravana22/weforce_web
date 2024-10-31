@@ -1,0 +1,15 @@
+@media (min-width: 320px) and (max-width: 768px) {
+    .banner_section {
+        padding: 100px 0px 0px 0px !important;
+        text-align: left;
+    }
+    .sub-heading {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 43px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #000;
+    }
+  }
+  
